@@ -87,22 +87,14 @@ const shehryar: Developer = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=shehryar11w&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehryar11w&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shehryar11w&theme=tokyonight&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shehryar11w&bg_color=0D1117&color=1D9E75&line=1D9E75&point=9FE1CB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=shehryar11w&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehryar11w&theme=radical&layout=compact" height="170"/>
+  <br/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=shehryar11w&theme=radical" height="170"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehryar11w&theme=radical" height="170"/> -->
+  <br/>
 </div>
 
 ---
